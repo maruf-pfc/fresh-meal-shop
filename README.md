@@ -44,7 +44,7 @@ Fresh-Meal-Shop/
 
 ## 📸 Preview
 
-🔗 Click here to see the [Live Demo](https://fresh-meal-shop.vercel.app)
+🔗 Click here to see the [Live Demo](https://mms-fresh-meal-shop.vercel.app)
 ![Fresh Meal Shop](./images/fresh-meal-shop.png)
 
 ## 📖 How to Use
