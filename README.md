@@ -62,8 +62,3 @@ Fresh-Meal-Shop/
 
 - Inspired by [CoderGyan](https://github.com/codersgyan).
 - Thanks to **Google Fonts** and free **SVG icon providers**.
-
-## 📜 License
-
-This project is for **practice and learning purposes only**.
-You are free to modify and use it for educational projects.
